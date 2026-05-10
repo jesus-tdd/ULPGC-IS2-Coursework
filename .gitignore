@@ -1,9 +1,11 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
 target/
 !.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/out/
+!**/src/test/**/out/
+!**/src/main/**/target/
+!**/src/test/**/target/
 .kotlin
 
 
@@ -29,18 +31,16 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
-
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-build/
+
 
 ### VS Code ###
 .vscode/
@@ -52,3 +52,5 @@ build/
 /src/main/resources
 .idea/
 resources/
+images/
+
