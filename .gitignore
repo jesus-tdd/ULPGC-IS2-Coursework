@@ -1,29 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-=======
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
 target/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 .kotlin
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -33,22 +15,7 @@ target/
 *.iws
 *.iml
 *.ipr
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> repo-kata2/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
+
 
 ### Eclipse ###
 .apt_generated
@@ -58,27 +25,10 @@ target/
 .settings
 .springBeans
 .sts4-cache
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-=======
->>>>>>> repo-kata2/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
-=======
->>>>>>> tmp/master
+
 
 ### NetBeans ###
 /nbproject/private/
@@ -86,81 +36,19 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
->>>>>>> repo-kata2/master
-=======
 build/
-!**/src/main/**/build/
-!**/src/test/**/build/
->>>>>>> tmp/master
-=======
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
->>>>>>> tmp/master
-=======
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
->>>>>>> tmp/master
-=======
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
->>>>>>> tmp/master
-=======
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
->>>>>>> tmp/master
 
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
 ### Custom ###
 /src/main/resources
->>>>>>> repo-kata2/master
-=======
-
-### Custom ###
-/src/main/resources
->>>>>>> tmp/master
-=======
-
-### Custom ###
-/src/main/resources
->>>>>>> tmp/master
-=======
-
-### Custom ###
-/src/main/resources
->>>>>>> tmp/master
-=======
-
-### Custom ###
-/src/main/resources
->>>>>>> tmp/master
-=======
-
-### Custom ###
-/src/main/resources
->>>>>>> tmp/master
+.idea/
+resources/
