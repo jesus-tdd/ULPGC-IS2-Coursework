@@ -1,9 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 =======
+=======
+>>>>>>> tmp/master
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -18,7 +21,10 @@ target/
 *.iws
 *.iml
 *.ipr
+<<<<<<< HEAD
 >>>>>>> repo-kata2/master
+=======
+>>>>>>> tmp/master
 
 ### Eclipse ###
 .apt_generated
@@ -29,11 +35,14 @@ target/
 .springBeans
 .sts4-cache
 <<<<<<< HEAD
+<<<<<<< HEAD
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 =======
 >>>>>>> repo-kata2/master
+=======
+>>>>>>> tmp/master
 
 ### NetBeans ###
 /nbproject/private/
@@ -42,11 +51,17 @@ bin/
 /nbdist/
 /.nb-gradle/
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 >>>>>>> repo-kata2/master
+=======
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+>>>>>>> tmp/master
 
 ### VS Code ###
 .vscode/
@@ -54,8 +69,14 @@ build/
 ### Mac OS ###
 .DS_Store
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 ### Custom ###
 /src/main/resources
 >>>>>>> repo-kata2/master
+=======
+
+### Custom ###
+/src/main/resources
+>>>>>>> tmp/master
