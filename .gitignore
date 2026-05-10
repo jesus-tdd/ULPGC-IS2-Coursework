@@ -3,11 +3,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 =======
+=======
+>>>>>>> tmp/master
 =======
 >>>>>>> tmp/master
 =======
@@ -34,7 +37,10 @@ target/
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> repo-kata2/master
+=======
+>>>>>>> tmp/master
 =======
 >>>>>>> tmp/master
 =======
@@ -57,11 +63,14 @@ target/
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 =======
 >>>>>>> repo-kata2/master
+=======
+>>>>>>> tmp/master
 =======
 >>>>>>> tmp/master
 =======
@@ -82,11 +91,17 @@ bin/
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 >>>>>>> repo-kata2/master
+=======
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+>>>>>>> tmp/master
 =======
 build/
 !**/src/main/**/build/
@@ -118,11 +133,17 @@ build/
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 ### Custom ###
 /src/main/resources
 >>>>>>> repo-kata2/master
+=======
+
+### Custom ###
+/src/main/resources
+>>>>>>> tmp/master
 =======
 
 ### Custom ###
