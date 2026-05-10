@@ -1,10 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 =======
+=======
+>>>>>>> tmp/master
 =======
 >>>>>>> tmp/master
 target/
@@ -22,7 +25,10 @@ target/
 *.iml
 *.ipr
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> repo-kata2/master
+=======
+>>>>>>> tmp/master
 =======
 >>>>>>> tmp/master
 
@@ -36,11 +42,14 @@ target/
 .sts4-cache
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 =======
 >>>>>>> repo-kata2/master
+=======
+>>>>>>> tmp/master
 =======
 >>>>>>> tmp/master
 
@@ -52,11 +61,17 @@ bin/
 /.nb-gradle/
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 >>>>>>> repo-kata2/master
+=======
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+>>>>>>> tmp/master
 =======
 build/
 !**/src/main/**/build/
@@ -70,11 +85,17 @@ build/
 .DS_Store
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 ### Custom ###
 /src/main/resources
 >>>>>>> repo-kata2/master
+=======
+
+### Custom ###
+/src/main/resources
+>>>>>>> tmp/master
 =======
 
 ### Custom ###
